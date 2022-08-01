@@ -4,6 +4,11 @@
   margin: 0px;
 }
 
+body {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
 .container {
   width: 25vw;
   height: 60vh;
